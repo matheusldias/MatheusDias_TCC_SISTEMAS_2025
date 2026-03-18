@@ -1,8 +1,8 @@
 # TCC - Matheus Dias | Sistemas de Informação 2025
 
-## Avaliação de Modelos de Linguagem em Pipelines RAG para Suporte ao Comércio Eletrônico
+## Avaliação de Modelos de Linguagem em Pipelines RAG
 
-Este repositório contém os artefatos do Trabalho de Conclusão de Curso (TCC) do curso de Sistemas de Informação, que investiga o desempenho de diferentes modelos de linguagem (LLMs) integrados a um pipeline de **RAG (Retrieval-Augmented Generation)** aplicado a um cenário de e-commerce.
+Este repositório contém os artefatos do Trabalho de Conclusão de Curso (TCC) do curso de Sistemas de Informação, que investiga o desempenho de diferentes modelos de linguagem (LLMs) integrados a um pipeline de **RAG (Retrieval-Augmented Generation)** aplicado a um cenário de empresa com e-commerce.
 
 ---
 
