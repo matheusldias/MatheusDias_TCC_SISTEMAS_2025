@@ -1,0 +1,31 @@
+timestamp;id;question;answer;latency_s;prompt_tokens;completion_tokens;total_tokens;top_k;sources
+2025-11-12T12:36:24;Q1;Qual o preço do Notebook X2000?;O preço do Notebook X2000 é 3500.0.;1.791;1463;14;1477;26;empresa.csv|produtos.csv
+2025-11-12T12:36:25;Q2;Quantas unidades do Smartphone Alpha estão em estoque?;Existem 120.0 unidades do Smartphone Alpha em estoque.;0.936;982;14;996;26;empresa.csv|produtos.csv
+2025-11-12T12:36:27;Q3;Em que ano a Tech Solutions foi fundada?;A Tech Solutions Comércio e Serviços Ltda foi fundada em 2015.;1.499;822;20;842;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:28;Q4;Quem é o dono da empresa? ;O dono da empresa é Carlos Henrique Souza.;0.92;741;12;753;26;empresa.csv|produtos.csv
+2025-11-12T12:36:29;Q5;Qual o endereço da sede da Tech Solutions?;O endereço da sede da Tech Solutions Comércio e Serviços Ltda é Av. Paulista 1000 - São Paulo - SP.;1.211;822;31;853;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:30;Q6;Qual o horário de funcionamento aos sábados? ;Sábado das 9h às 14h.;1.147;952;11;963;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:32;Q7;Quais formas de pagamento a empresa aceita?;A empresa aceita as seguintes formas de pagamento: Cartão de Crédito, Cartão de Débito, Boleto, Pix e Transferência Bancária.;1.611;741;36;777;26;empresa.csv|produtos.csv
+2025-11-12T12:36:33;Q8;A empresa possui certificações?;Sim, a empresa possui as certificações ISO 9001 e ISO 27001.;1.434;726;19;745;26;empresa.csv|servicos.csv
+2025-11-12T12:36:35;Q9;Qual é a política de troca de produtos?;A política de troca é de até 30 dias com nota fiscal.;1.245;1072;15;1087;26;empresa.csv|produtos.csv
+2025-11-12T12:36:38;Q10;Quais são as filiais localizadas no estado de Santa Catarina?;As filiais localizadas no estado de Santa Catarina são: - Filial 3: Rua XV de Novembro 890 - Florianópolis - SC - Filial 4: Av. Brasil 1234 - Balneário Camboriú - SC;3.57;1041;58;1099;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:40;Q11;Qual o preço da Cadeira Ergonômica Pro? ;O preço da Cadeira Ergonômica Pro é 899.9.;1.374;1028;17;1045;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:40;Q12;Quantos funcionários a empresa possui?;A empresa possui 48 funcionários.;0.838;727;8;735;26;empresa.csv|servicos.csv
+2025-11-12T12:36:43;Q13;Quais são os principais clientes da Tech Solutions? ;Os principais clientes da Tech Solutions Comércio e Serviços Ltda são: Universidade XPTO - Hospital Central - Prefeitura Municipal de São Paulo;2.152;835;37;872;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:44;Q14;Qual o preço do serviço de Consultoria em TI? ;O preço do serviço de Consultoria em TI é 500.0.;1.205;920;15;935;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:45;Q15;Qual a garantia dos produtos eletrônicos?;A garantia dos produtos eletrônicos é de 12 meses.;1.048;1210;15;1225;26;empresa.csv|produtos.csv
+2025-11-12T12:36:46;Q16;Qual o tempo médio de entrega de um pedido? ;O tempo médio de entrega de um pedido é de 3 a 7 dias úteis.;1.213;923;21;944;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:48;Q17;Quais canais de venda a Tech Solutions oferece? ;A Tech Solutions Comércio e Serviços Ltda oferece os seguintes canais de venda:Loja Física- Loja Virtual - Marketplace - Telefone - WhatsApp;2.135;853;43;896;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:50;Q18;Qual o preço da Impressora Multifuncional Laser? ;O preço da Impressora Multifuncional Laser é de 1350.0.;1.798;997;18;1015;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:52;Q19;Quantas unidades do Drone 4K Pro estão disponíveis em estoque? ;Estão disponíveis 5.0 unidades do Drone 4K Pro em estoque.;1.246;1439;19;1458;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:53;Q20;Qual o preço do serviço de Backup em Nuvem? ;O preço do serviço de Backup em Nuvem é de 90.0.;1.732;948;17;965;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:55;Q21;Quais são as transportadoras parceiras da empresa? ;As transportadoras parceiras da empresa são Correios, Jadlog, Azul Cargo e Transportadora XPTO.;1.532;743;25;768;26;empresa.csv|produtos.csv
+2025-11-12T12:36:56;Q22;Qual o preço do Monitor 27 Ultra HD? ;O preço do Monitor 27 Ultra HD é 1899.0.;1.375;1508;15;1523;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:57;Q23;Quantos Servidores Rack 2U estão disponíveis? ;Estoque: 8.0 unidades.;0.908;1058;9;1067;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:36:58;Q24;Qual o preço do Mouse Sem Fio MX?;O preço do Mouse Sem Fio MX é de 199.9.;1.046;978;15;993;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:37:00;Q25;Qual é o CNPJ da empresa? ;O CNPJ fictício da empresa é 12.345.678/0001-99.;1.612;739;20;759;26;empresa.csv|produtos.csv
+2025-11-12T12:37:01;Q26;Qual o preço do serviço de Configuração de Firewall? ;O preço do serviço de Configuração de Firewall é 600.0.;0.952;1062;16;1078;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:37:04;Q27;Quais produtos estão na categoria Segurança? ;Os produtos na categoria Segurança são: 1. Extintor de Incêndio 4kg - 2. Alarme Residencial Completo- 3. Câmera de Segurança IP - 4. Fechadura Eletrônica Wi-Fi - 5. Controle de Acesso Biométrico;2.959;1207;67;1274;26;empresa.csv|produtos.csv
+2025-11-12T12:37:05;Q28;Qual o preço do HD Externo 2TB? ;O preço do HD Externo 2TB é 540.0.;1.203;1425;16;1441;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:37:07;Q29;Quantas unidades da Placa de Vídeo RTX 4060 estão disponíveis? ;10.0 unidades da Placa de Vídeo RTX 4060 estão disponíveis.;1.485;1395;20;1415;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:37:08;Q30;Quais serviços têm preço sob consulta?;"O serviço ""Locação de Equipamentos"" tem preço sob consulta.";1.208;899;14;913;26;empresa.csv|produtos.csv|servicos.csv

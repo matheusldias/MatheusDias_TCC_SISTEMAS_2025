@@ -1,0 +1,11 @@
+﻿servico_id;nome;preco
+Suporte Técnico Remoto;150.0;Servico
+Instalação de Equipamentos;300.0;Servico
+Consultoria em TI;500.0;Servico
+Manutenção Preventiva;250.0;Servico
+Backup em Nuvem (mensal);90.0;Servico
+Configuração de Rede Corporativa;450.0;Servico
+Monitoramento de Servidores 24h;800.0;Servico
+Locação de Equipamentos;preço sob consulta;Servico
+Auditoria de Segurança da Informação;1500.0;Servico
+Configuração de Firewall;600.0;Servico

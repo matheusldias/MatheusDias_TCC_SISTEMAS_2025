@@ -1,0 +1,60 @@
+
+Qual o preço do Notebook X2000? Q1
+
+Quantas unidades do Smartphone Alpha estão em estoque? Q2
+
+Em que ano a Tech Solutions foi fundada? Q3
+
+Quem é o dono da empresa? Q4
+
+Qual o endereço da sede da Tech Solutions? Q5
+
+Qual o horário de funcionamento aos sábados? Q6
+
+Quais formas de pagamento a empresa aceita? Q7
+
+A empresa possui certificações? Q8
+
+Qual é a política de troca de produtos? Q9
+
+Quais são as filiais localizadas no estado de Santa Catarina? Q10
+
+Qual o preço da Cadeira Ergonômica Pro? Q11
+
+Quantos funcionários a empresa possui? Q12
+
+Quais são os principais clientes da Tech Solutions? Q13
+
+Qual o preço do serviço de Consultoria em TI? Q14
+
+Qual a garantia dos produtos eletrônicos? Q15
+
+Qual o tempo médio de entrega de um pedido? Q16
+
+Quais canais de venda a Tech Solutions oferece? Q17
+
+Qual o preço da Impressora Multifuncional Laser? Q18
+
+Quantas unidades do Drone 4K Pro estão disponíveis em estoque? Q19
+
+Qual o preço do serviço de Backup em Nuvem? Q20
+
+Quais são as transportadoras parceiras da empresa? Q21
+
+Qual o preço do Monitor 27" Ultra HD? Q22
+
+Quantos Servidores Rack 2U estão disponíveis? Q23
+
+Qual o preço do Mouse Sem Fio MX?? Q24
+
+Qual é o CNPJ da empresa? Q25
+
+Qual o preço do serviço de Configuração de Firewall? Q26
+
+Quais produtos estão na categoria “Segurança”? Q27
+
+Qual o preço do HD Externo 2TB? Q28
+
+Quantas unidades da Placa de Vídeo RTX 4060 estão disponíveis? Q29
+
+Quais serviços têm preço sob consulta? Q30

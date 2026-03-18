@@ -1,0 +1,31 @@
+timestamp;engine;model;id;question;answer;latency_s;prompt_tokens;completion_tokens;total_tokens;top_k;sources
+2025-11-12T13:16:15;gemini;gemini-2.5-flash;Q1;Qual o preço do Notebook X2000?;preco: 3500.0;1.229;1345;54;1399;26;produtos.csv
+2025-11-12T13:16:16;gemini;gemini-2.5-flash;Q2;Quantas unidades do Smartphone Alpha estão em estoque?;120.0;1.376;1070;44;1114;26;empresa.csv|produtos.csv
+2025-11-12T13:16:18;gemini;gemini-2.5-flash;Q3;Em que ano a Tech Solutions foi fundada?;2015;1.33;856;113;969;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:19;gemini;gemini-2.5-flash;Q4;Quem é o dono da empresa? ;Nome do Dono: Carlos Henrique Souza;1.63;729;49;778;26;empresa.csv|produtos.csv
+2025-11-12T13:16:21;gemini;gemini-2.5-flash;Q5;Qual o endereço da sede da Tech Solutions?;Av. Paulista 1000 - São Paulo - SP;1.023;927;49;976;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:23;gemini;gemini-2.5-flash;Q6;Qual o horário de funcionamento aos sábados? ;Sábado das 9h às 14h;2.739;948;47;995;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:25;gemini;gemini-2.5-flash;Q7;Quais formas de pagamento a empresa aceita?;Formas de Pagamento: Cartão de Crédito - Cartão de Débito -  Boleto -  Pix -  Transferência Bancária;1.104;731;65;796;26;empresa.csv|produtos.csv
+2025-11-12T13:16:27;gemini;gemini-2.5-flash;Q8;A empresa possui certificações?;Sim, a empresa possui as seguintes certificações: ISO 9001 -  ISO 27001.;2.859;714;90;804;26;empresa.csv|servicos.csv
+2025-11-12T13:16:28;gemini;gemini-2.5-flash;Q9;Qual é a política de troca de produtos?;Política de Troca: Troca em até 30 dias com nota fiscal;0.919;1181;51;1232;26;empresa.csv|produtos.csv
+2025-11-12T13:16:30;gemini;gemini-2.5-flash;Q10;Quais são as filiais localizadas no estado de Santa Catarina?;As filiais localizadas no estado de Santa Catarina são: Filial 4: Av. Brasil 1234 - Balneário Camboriú - SC - Filial 3: Rua XV de Novembro 890 - Florianópolis - SC;1.882;1125;252;1377;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:32;gemini;gemini-2.5-flash;Q11;Qual o preço da Cadeira Ergonômica Pro? ;preco: 899.9;1.144;1124;44;1168;26;empresa.csv|produtos.csv
+2025-11-12T13:16:33;gemini;gemini-2.5-flash;Q12;Quantos funcionários a empresa possui?;Número de Funcionários: 48;1.003;715;36;751;26;empresa.csv|servicos.csv
+2025-11-12T13:16:34;gemini;gemini-2.5-flash;Q13;Quais são os principais clientes da Tech Solutions? ;Principais Clientes: Universidade XPTO -  Hospital Central -  Prefeitura Municipal de São Paulo;1.069;885;63;948;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:35;gemini;gemini-2.5-flash;Q14;Qual o preço do serviço de Consultoria em TI? ;500.0;1.168;960;68;1028;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:36;gemini;gemini-2.5-flash;Q15;Qual a garantia dos produtos eletrônicos?;12 meses para eletrônicos;1.076;1332;55;1387;26;empresa.csv|produtos.csv
+2025-11-12T13:16:37;gemini;gemini-2.5-flash;Q16;Qual o tempo médio de entrega de um pedido? ;Tempo Médio de Entrega: 3 a 7 dias úteis;1.013;967;49;1016;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:38;gemini;gemini-2.5-flash;Q17;Quais canais de venda a Tech Solutions oferece? ;Canais de Venda: Loja Física - Loja Virtual -  Marketplace -  Telefone -  WhatsApp;1.131;872;63;935;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:40;gemini;gemini-2.5-flash;Q18;Qual o preço da Impressora Multifuncional Laser? ;preco: 1350.0;1.199;1048;46;1094;26;empresa.csv|produtos.csv
+2025-11-12T13:16:41;gemini;gemini-2.5-flash;Q19;Quantas unidades do Drone 4K Pro estão disponíveis em estoque? ;5.0 unidades.;1.93;1358;137;1495;26;produtos.csv
+2025-11-12T13:16:43;gemini;gemini-2.5-flash;Q20;Qual o preço do serviço de Backup em Nuvem? ;90.0;1.223;988;66;1054;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:45;gemini;gemini-2.5-flash;Q21;Quais são as transportadoras parceiras da empresa? ;Transportadoras Parceiras: Correios -  Jadlog - Azul Cargo -  Transportadora XPTO;2.286;733;90;823;26;empresa.csv|produtos.csv
+2025-11-12T13:16:48;gemini;gemini-2.5-flash;Q22;Qual o preço do Monitor 27 Ultra HD? ;O preço do Monitor 27 Ultra HD é 1899.0.;2.976;1300;181;1481;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:50;gemini;gemini-2.5-flash;Q23;Quantos Servidores Rack 2U estão disponíveis? ;estoque: 8.0;1.747;1141;49;1190;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:51;gemini;gemini-2.5-flash;Q24;Qual o preço do Mouse Sem Fio MX?;preco: 199.9;1.031;1018;49;1067;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:16:55;gemini;gemini-2.5-flash;Q25;Qual é o CNPJ da empresa? ;CNPJ Fictício: 12.345.678/0001-99;3.517;730;67;797;26;empresa.csv|produtos.csv
+2025-11-12T13:16:59;gemini;gemini-2.5-flash;Q26;Qual o preço do serviço de Configuração de Firewall? ;600.0;4.594;1127;63;1190;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:17:09;gemini;gemini-2.5-flash;Q27;Quais produtos estão na categoria Segurança? ;Extintor de Incendio 4kg - Camera de Segurança IP - Alarme Residencial Completo-  Controle de Acesso Biom�trico -Fechadura Eletronica Wi-Fi;9.246;1297;170;1467;26;empresa.csv|produtos.csv
+2025-11-12T13:17:19;gemini;gemini-2.5-flash;Q28;Qual o preço do HD Externo 2TB? ;O preço do HD Externo 2TB é 540.0.;1.642;1352;54;1406;26;empresa.csv|produtos.csv
+2025-11-12T13:17:20;gemini;gemini-2.5-flash;Q29;Quantas unidades da Placa de Vídeo RTX 4060 estão disponíveis? ;estoque: 10.0;0.905;1178;54;1232;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T13:17:22;gemini;gemini-2.5-flash;Q30;Quais serviços têm preço sob consulta?;Locação de Equipamentos;1.289;964;45;1009;26;empresa.csv|produtos.csv|servicos.csv

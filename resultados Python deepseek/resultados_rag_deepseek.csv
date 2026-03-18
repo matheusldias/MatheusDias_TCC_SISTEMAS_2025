@@ -1,0 +1,31 @@
+timestamp;engine;model;id;question;answer;latency_s;prompt_tokens;completion_tokens;total_tokens;top_k;sources
+2025-11-12T12:45:22;deepseek;deepseek-chat;Q1;Qual o preço do Notebook X2000?;O preço do Notebook X2000 é 3500.0;2.214;1295;14;1309;26;produtos.csv
+2025-11-12T12:45:25;deepseek;deepseek-chat;Q2;Quantas unidades do Smartphone Alpha estão em estoque?;120.0;1.539;1052;3;1055;26;empresa.csv|produtos.csv
+2025-11-12T12:45:27;deepseek;deepseek-chat;Q3;Em que ano a Tech Solutions foi fundada?;A Tech Solutions foi fundada em 2015.;1.54;866;11;877;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:45:29;deepseek;deepseek-chat;Q4;Quem é o dono da empresa? ;Carlos Henrique Souza;1.525;741;5;746;26;empresa.csv|produtos.csv
+2025-11-12T12:45:31;deepseek;deepseek-chat;Q5;Qual o endereço da sede da Tech Solutions?;Av. Paulista 1000 - São Paulo - SP;1.642;918;12;930;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:45:34;deepseek;deepseek-chat;Q6;Qual o horário de funcionamento aos sábados? ;Sábado das 9h às 14h;1.827;955;11;966;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:45:37;deepseek;deepseek-chat;Q7;Quais formas de pagamento a empresa aceita?;Cartão de Crédito,   Cartão de Débito,   Boleto ,  Pix ,    Transferência Bancária;2.241;742;23;765;26;empresa.csv|produtos.csv
+2025-11-12T12:45:40;deepseek;deepseek-chat;Q8;A empresa possui certificações?;Sim, a empresa possui as certificações: ISO 9001 e ISO 27001.;1.942;724;19;743;26;empresa.csv|servicos.csv
+2025-11-12T12:45:42;deepseek;deepseek-chat;Q9;Qual é a política de troca de produtos?;Troca em até 30 dias com nota fiscal;1.955;1153;10;1163;26;empresa.csv|produtos.csv
+2025-11-12T12:45:46;deepseek;deepseek-chat;Q10;Quais são as filiais localizadas no estado de Santa Catarina?;Com base no contexto, as filiais localizadas em Santa Catarina são: - Filial 4: Av. Brasil 1234 - Balneário Camboriú - SC , - Filial 3: Rua XV de Novembro 890 - Florianópolis - SC;3.187;1095;59;1154;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:45:48;deepseek;deepseek-chat;Q11;Qual o preço da Cadeira Ergonômica Pro? ;899.9;1.5;1113;3;1116;26;empresa.csv|produtos.csv
+2025-11-12T12:45:51;deepseek;deepseek-chat;Q12;Quantos funcionários a empresa possui?;A empresa possui 48 funcionários.;1.983;726;8;734;26;empresa.csv|servicos.csv
+2025-11-12T12:45:54;deepseek;deepseek-chat;Q13;Quais são os principais clientes da Tech Solutions? ;Principais Clientes: Universidade XPTO - Hospital Central - Prefeitura Municipal de São Paulo;2.006;891;20;911;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:45:56;deepseek;deepseek-chat;Q14;Qual o preço do serviço de Consultoria em TI? ;500.0;1.483;950;3;953;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:45:58;deepseek;deepseek-chat;Q15;Qual a garantia dos produtos eletrônicos?;12 meses para eletrônicos;1.418;1287;7;1294;26;empresa.csv|produtos.csv
+2025-11-12T12:46:00;deepseek;deepseek-chat;Q16;Qual o tempo médio de entrega de um pedido? ;Tempo Médio de Entrega: 3 a 7 dias úteis;1.715;959;17;976;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:05;deepseek;deepseek-chat;Q17;Quais canais de venda a Tech Solutions oferece? ;Com base no contexto, a Tech Solutions oferece os seguintes canais de venda: Loja Física ,   Loja Virtual, Marketplace , Telefone- WhatsApp;3.534;886;40;926;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:07;deepseek;deepseek-chat;Q18;Qual o preço da Impressora Multifuncional Laser? ;1350.0;1.457;1037;4;1041;26;empresa.csv|produtos.csv
+2025-11-12T12:46:09;deepseek;deepseek-chat;Q19;Quantas unidades do Drone 4K Pro estão disponíveis em estoque? ;5.0;1.467;1314;6;1320;26;produtos.csv
+2025-11-12T12:46:11;deepseek;deepseek-chat;Q20;Qual o preço do serviço de Backup em Nuvem? ;90.0;1.518;969;3;972;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:14;deepseek;deepseek-chat;Q21;Quais são as transportadoras parceiras da empresa? ;Transportadoras Parceiras: Correios,   Jadlog ,   Azul Cargo,   Transportadora XPTO;1.932;743;21;764;26;empresa.csv|produtos.csv
+2025-11-12T12:46:17;deepseek;deepseek-chat;Q22;Qual o preço do Monitor 27 Ultra HD? ;O preço do Monitor 27 Ultra HD é 1899.0;2.018;1253;15;1268;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:19;deepseek;deepseek-chat;Q23;Quantos Servidores Rack 2U estão disponíveis? ;8.0;1.454;1124;6;1130;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:21;deepseek;deepseek-chat;Q24;Qual o preço do Mouse Sem Fio MX?;O preço do Mouse Sem Fio MX é 199.9;1.834;1041;14;1055;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:24;deepseek;deepseek-chat;Q25;Qual é o CNPJ da empresa? ;CNPJ Fictício: 12.345.678/0001-99;1.933;741;18;759;26;empresa.csv|produtos.csv
+2025-11-12T12:46:26;deepseek;deepseek-chat;Q26;Qual o preço do serviço de Configuração de Firewall? ;600.0;1.624;1099;3;1102;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:31;deepseek;deepseek-chat;Q27;Quais produtos estão na categoria Segurança? ;Com base no contexto, os produtos na categoria Segurança são: - Extintor de Incendio 4kg (produto_id: 549) - Camera de Segurança IP (produto_id: 546) - Alarme Residencial Completo (produto_id: 548) - Controle de Acesso Biométrico (produto_id: 545)- Fechadura Eletronica Wi-Fi(produto_id: 547);3.549;1258;79;1337;26;empresa.csv|produtos.csv
+2025-11-12T12:46:33;deepseek;deepseek-chat;Q28;Qual o preço do HD Externo 2TB? ;O preço do HD Externo 2TB é 540.0;1.714;1301;15;1316;26;empresa.csv|produtos.csv
+2025-11-12T12:46:35;deepseek;deepseek-chat;Q29;Quantas unidades da Placa de Vídeo RTX 4060 estão disponíveis? ;Estoque: 10.0;1.509;1134;7;1141;26;empresa.csv|produtos.csv|servicos.csv
+2025-11-12T12:46:38;deepseek;deepseek-chat;Q30;Quais serviços têm preço sob consulta?;Locação de Equipamentos;2.246;953;6;959;26;empresa.csv|produtos.csv|servicos.csv

@@ -1,0 +1,590 @@
+[
+ {
+   "Nome": "Nome da Empresa",
+   "Descrição": "Tech Solutions Comércio e Serviços Ltda",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Nome do Dono",
+   "Descrição": "Carlos Henrique Souza",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Data de Fundação",
+   "Descrição": "2015-08-12",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "CNPJ Fictício",
+   "Descrição": "12.345.678/0001-99",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Tipo de Venda",
+   "Descrição": "Varejo e E-commerce",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Número de Funcionários",
+   "Descrição": "48",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Sede",
+   "Descrição": "Av. Paulista 1000 - São Paulo - SP",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Filial 1",
+   "Descrição": "Rua das Flores 250 - Curitiba - PR",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Filial 2",
+   "Descrição": "Rua Bento Gonçalves 420 - Porto Alegre - RS",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Filial 3",
+   "Descrição": "Rua XV de Novembro 890 - Florianópolis - SC",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Filial 4",
+   "Descrição": "Av. Brasil 1234 - Balneário Camboriú - SC",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Telefone Comercial",
+   "Descrição": "(11) 4002-8922",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "E-mail Comercial",
+   "Descrição": "contato@techsolutions.com",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Site",
+   "Descrição": "www.techsolutions.com",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Canais de Venda",
+   "Descrição": "Loja Física; Loja Virtual; Marketplace; Telefone; WhatsApp",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Horário de Funcionamento",
+   "Descrição": "Segunda a Sexta das 8h às 18h; Sábado das 9h às 14h",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Faturamento Anual Estimado",
+   "Descrição": "R$ 18.500.000,00",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Certificações",
+   "Descrição": "ISO 9001; ISO 27001",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Política de Troca",
+   "Descrição": "Troca em até 30 dias com nota fiscal",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Formas de Pagamento",
+   "Descrição": "Cartão de Crédito; Cartão de Débito; Boleto; Pix; Transferência Bancária",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Transportadoras Parceiras",
+   "Descrição": "Correios; Jadlog; Azul Cargo; Transportadora XPTO",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Tempo Médio de Entrega",
+   "Descrição": "3 a 7 dias úteis",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Prazo de Garantia dos Produtos",
+   "Descrição": "12 meses para eletrônicos; 6 meses para móveis",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Principais Clientes",
+   "Descrição": "Universidade XPTO; Hospital Central; Prefeitura Municipal de São Paulo",
+   "Tipo": "Empresa",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Notebook X2000",
+   "Descrição": "3500.0",
+   "Tipo": "Produto",
+   "Quantidade": 45,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Smartphone Alpha",
+   "Descrição": "2200.0",
+   "Tipo": "Produto",
+   "Quantidade": 120,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Cadeira Ergonômica Pro",
+   "Descrição": "899.9",
+   "Tipo": "Produto",
+   "Quantidade": 65,
+   "Categoria": "Móveis"
+ },
+ {
+   "Nome": "Mouse Sem Fio MX",
+   "Descrição": "199.9",
+   "Tipo": "Produto",
+   "Quantidade": 200,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Impressora Multifuncional Laser",
+   "Descrição": "1350.0",
+   "Tipo": "Produto",
+   "Quantidade": 30,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Monitor 27\" Ultra HD",
+   "Descrição": "1899.0",
+   "Tipo": "Produto",
+   "Quantidade": 25,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Teclado Mecânico Gamer",
+   "Descrição": "499.0",
+   "Tipo": "Produto",
+   "Quantidade": 150,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Headset Pro Sound",
+   "Descrição": "349.0",
+   "Tipo": "Produto",
+   "Quantidade": 85,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Servidor Rack 2U",
+   "Descrição": "8500.0",
+   "Tipo": "Produto",
+   "Quantidade": 8,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Switch Gerenciável 48 portas",
+   "Descrição": "4200.0",
+   "Tipo": "Produto",
+   "Quantidade": 15,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Tablet Pro 12\"",
+   "Descrição": "3200.0",
+   "Tipo": "Produto",
+   "Quantidade": 40,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Projetor Full HD",
+   "Descrição": "2890.0",
+   "Tipo": "Produto",
+   "Quantidade": 12,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Cabo HDMI 2m",
+   "Descrição": "49.9",
+   "Tipo": "Produto",
+   "Quantidade": 500,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Cadeira Presidente Couro",
+   "Descrição": "1590.0",
+   "Tipo": "Produto",
+   "Quantidade": 20,
+   "Categoria": "Móveis"
+ },
+ {
+   "Nome": "HD Externo 2TB",
+   "Descrição": "540.0",
+   "Tipo": "Produto",
+   "Quantidade": 75,
+   "Categoria": "Armazenamento"
+ },
+ {
+   "Nome": "SSD NVMe 1TB",
+   "Descrição": "620.0",
+   "Tipo": "Produto",
+   "Quantidade": 60,
+   "Categoria": "Armazenamento"
+ },
+ {
+   "Nome": "No-Break 1400VA",
+   "Descrição": "980.0",
+   "Tipo": "Produto",
+   "Quantidade": 22,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Webcam Full HD",
+   "Descrição": "250.0",
+   "Tipo": "Produto",
+   "Quantidade": 100,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Antena Wi-Fi Dual Band",
+   "Descrição": "180.0",
+   "Tipo": "Produto",
+   "Quantidade": 40,
+   "Categoria": "Redes"
+ },
+ {
+   "Nome": "Roteador Mesh",
+   "Descrição": "750.0",
+   "Tipo": "Produto",
+   "Quantidade": 35,
+   "Categoria": "Redes"
+ },
+ {
+   "Nome": "Estabilizador 600VA",
+   "Descrição": "320.0",
+   "Tipo": "Produto",
+   "Quantidade": 45,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Placa de Vídeo RTX 4060",
+   "Descrição": "1890.0",
+   "Tipo": "Produto",
+   "Quantidade": 10,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Microfone Condensador USB",
+   "Descrição": "420.0",
+   "Tipo": "Produto",
+   "Quantidade": 50,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Cadeira Gamer Lux",
+   "Descrição": "1290.0",
+   "Tipo": "Produto",
+   "Quantidade": 18,
+   "Categoria": "Móveis"
+ },
+ {
+   "Nome": "Suporte de Monitor Articulado",
+   "Descrição": "210.0",
+   "Tipo": "Produto",
+   "Quantidade": 60,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Ar Condicionado Split 9000 BTUs",
+   "Descrição": "2300.0",
+   "Tipo": "Produto",
+   "Quantidade": 12,
+   "Categoria": "Eletrodomésticos"
+ },
+ {
+   "Nome": "Smart TV 55\" 4K",
+   "Descrição": "2999.0",
+   "Tipo": "Produto",
+   "Quantidade": 20,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Carregador Portátil 20000mAh",
+   "Descrição": "220.0",
+   "Tipo": "Produto",
+   "Quantidade": 85,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Fone Bluetooth Esportivo",
+   "Descrição": "180.0",
+   "Tipo": "Produto",
+   "Quantidade": 150,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Drone 4K Pro",
+   "Descrição": "5200.0",
+   "Tipo": "Produto",
+   "Quantidade": 5,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Luminária LED de Mesa",
+   "Descrição": "120.0",
+   "Tipo": "Produto",
+   "Quantidade": 200,
+   "Categoria": "Iluminação"
+ },
+ {
+   "Nome": "Caixa de Som Bluetooth",
+   "Descrição": "340.0",
+   "Tipo": "Produto",
+   "Quantidade": 70,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Kit Teclado e Mouse Sem Fio",
+   "Descrição": "280.0",
+   "Tipo": "Produto",
+   "Quantidade": 95,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Servidor Torre Xeon",
+   "Descrição": "9700.0",
+   "Tipo": "Produto",
+   "Quantidade": 4,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Scanner Profissional",
+   "Descrição": "1450.0",
+   "Tipo": "Produto",
+   "Quantidade": 15,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Notebook Ultra Slim",
+   "Descrição": "4100.0",
+   "Tipo": "Produto",
+   "Quantidade": 30,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Switch Não Gerenciável 16 portas",
+   "Descrição": "650.0",
+   "Tipo": "Produto",
+   "Quantidade": 25,
+   "Categoria": "Redes"
+ },
+ {
+   "Nome": "Placa Mãe ATX",
+   "Descrição": "780.0",
+   "Tipo": "Produto",
+   "Quantidade": 40,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Memória RAM 16GB DDR4",
+   "Descrição": "350.0",
+   "Tipo": "Produto",
+   "Quantidade": 100,
+   "Categoria": "Armazenamento"
+ },
+ {
+   "Nome": "Bateria para No-Break",
+   "Descrição": "180.0",
+   "Tipo": "Produto",
+   "Quantidade": 60,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Cabo de Rede Cat6 20m",
+   "Descrição": "95.0",
+   "Tipo": "Produto",
+   "Quantidade": 150,
+   "Categoria": "Redes"
+ },
+ {
+   "Nome": "Impressora Térmica",
+   "Descrição": "820.0",
+   "Tipo": "Produto",
+   "Quantidade": 20,
+   "Categoria": "Equipamentos"
+ },
+ {
+   "Nome": "Smartwatch Fit Pro",
+   "Descrição": "980.0",
+   "Tipo": "Produto",
+   "Quantidade": 45,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Monitor Curvo 34\" UltraWide",
+   "Descrição": "3590.0",
+   "Tipo": "Produto",
+   "Quantidade": 8,
+   "Categoria": "Eletrônicos"
+ },
+ {
+   "Nome": "Hub USB-C 8 portas",
+   "Descrição": "220.0",
+   "Tipo": "Produto",
+   "Quantidade": 120,
+   "Categoria": "Acessórios"
+ },
+ {
+   "Nome": "Controle de Acesso Biométrico",
+   "Descrição": "1450.0",
+   "Tipo": "Produto",
+   "Quantidade": 15,
+   "Categoria": "Segurança"
+ },
+ {
+   "Nome": "Câmera de Segurança IP",
+   "Descrição": "380.0",
+   "Tipo": "Produto",
+   "Quantidade": 60,
+   "Categoria": "Segurança"
+ },
+ {
+   "Nome": "Fechadura Eletrônica Wi-Fi",
+   "Descrição": "890.0",
+   "Tipo": "Produto",
+   "Quantidade": 25,
+   "Categoria": "Segurança"
+ },
+ {
+   "Nome": "Alarme Residencial Completo",
+   "Descrição": "2100.0",
+   "Tipo": "Produto",
+   "Quantidade": 10,
+   "Categoria": "Segurança"
+ },
+ {
+   "Nome": "Extintor de Incêndio 4kg",
+   "Descrição": "180.0",
+   "Tipo": "Produto",
+   "Quantidade": 40,
+   "Categoria": "Segurança"
+ },
+ {
+   "Nome": "Suporte Técnico Remoto",
+   "Descrição": "150.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Instalação de Equipamentos",
+   "Descrição": "300.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Consultoria em TI",
+   "Descrição": "500.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Manutenção Preventiva",
+   "Descrição": "250.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Backup em Nuvem (mensal)",
+   "Descrição": "90.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Configuração de Rede Corporativa",
+   "Descrição": "450.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Monitoramento de Servidores 24h",
+   "Descrição": "800.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Locação de Equipamentos",
+   "Descrição": "preço sob consulta",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Auditoria de Segurança da Informação",
+   "Descrição": "1500.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ },
+ {
+   "Nome": "Configuração de Firewall",
+   "Descrição": "600.0",
+   "Tipo": "Serviço",
+   "Quantidade": null,
+   "Categoria": ""
+ }
+]

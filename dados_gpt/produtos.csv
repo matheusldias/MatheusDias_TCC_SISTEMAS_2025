@@ -1,0 +1,51 @@
+produto_id;nome;preco;estoque;categoria
+500;Notebook X2000;3500.0;45.0;Eletronicos
+501;Smartphone Alpha;2200.0;120.0;Eletronicos
+502;Cadeira Ergonomica Pro;899.9;65.0;Moveis
+503;Mouse Sem Fio MX;199.9;200.0;Acessorios
+504;Impressora Multifuncional Laser;1350.0;30.0;Equipamentos
+505;Monitor 27 Ultra HD;1899.0;25.0;Eletronicos
+506;Teclado Mecanico Gamer;499.0;150.0;Acessorios
+507;Headset Pro Sound;349.0;85.0;Acessorios
+508;Servidor Rack 2U;8500.0;8.0;Equipamentos
+509;Switch Gerenciavel 48 portas;4200.0;15.0;Equipamentos
+510;Tablet Pro 12;3200.0;40.0;Eletronicos
+511;Projetor Full HD;2890.0;12.0;Eletronicos
+512;Cabo HDMI 2m;49.9;500.0;Acessorios
+513;Cadeira Presidente Couro;1590.0;20.0;Moveis
+514;HD Externo 2TB;540.0;75.0;Armazenamento
+515;SSD NVMe 1TB;620.0;60.0;Armazenamento
+516;No-Break 1400VA;980.0;22.0;Equipamentos
+517;Webcam Full HD;250.0;100.0;Acessorios
+518;Antena Wi-Fi Dual Band;180.0;40.0;Redes
+519;Roteador Mesh;750.0;35.0;Redes
+520;Estabilizador 600VA;320.0;45.0;Equipamentos
+521;Placa de V�deo RTX 4060;1890.0;10.0;Eletronicos
+522;Microfone Condensador USB;420.0;50.0;Acessorios
+523;Cadeira Gamer Lux;1290.0;18.0;Moveis
+524;Suporte de Monitor Articulado;210.0;60.0;Acessorios
+525;Ar Condicionado Split 9000 BTUs;2300.0;12.0;Eletrodomesticos
+526;Smart TV 55 4K;2999.0;20.0;Eletronicos
+527;Carregador Port�til 20000mAh;220.0;85.0;Acessorios
+528;Fone Bluetooth Esportivo;180.0;150.0;Acessorios
+529;Drone 4K Pro;5200.0;5.0;Eletronicos
+530;Luminaria LED de Mesa;120.0;200.0;Iluminacao
+531;Caixa de Som Bluetooth;340.0;70.0;Acessorios
+532;Kit Teclado e Mouse Sem Fio;280.0;95.0;Acessorios
+533;Servidor Torre Xeon;9700.0;4.0;Equipamentos
+534;Scanner Profissional;1450.0;15.0;Equipamentos
+535;Notebook Ultra Slim;4100.0;30.0;Eletronicos
+536;Switch nao Gerenciavel 16 portas;650.0;25.0;Redes
+537;Placa Mae ATX;780.0;40.0;Eletronicos
+538;Memoria RAM 16GB DDR4;350.0;100.0;Armazenamento
+539;Bateria para No-Break;180.0;60.0;Equipamentos
+540;Cabo de Rede Cat6 20m;95.0;150.0;Redes
+541;Impressora Termica;820.0;20.0;Equipamentos
+542;Smartwatch Fit Pro;980.0;45.0;Eletronicos
+543;Monitor Curvo 34 UltraWide;3590.0;8.0;Eletronicos
+544;Hub USB-C 8 portas;220.0;120.0;Acessorios
+545;Controle de Acesso Biom�trico;1450.0;15.0;Seguranca
+546;Camera de Seguran�a IP;380.0;60.0;Seguranca
+547;Fechadura Eletronica Wi-Fi;890.0;25.0;Seguranca
+548;Alarme Residencial Completo;2100.0;10.0;Seguranca
+549;Extintor de Incendio 4kg;180.0;40.0;Seguranca
